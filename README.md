@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋, I'm Bráulio Dos Santos
 
-<!--
-**braulio-dos-santos/braulio-dos-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Web Developer and Tech Enthusiast from Angola 🇦🇴
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [FindControl](link-do-projeto)
+- 🌱 I’m currently learning Angular, AdonisJS and Git mastery
+- 💬 Ask me about web development, innovation, and automation
+- 👨‍💻 All of my projects are available on my [GitHub](https://github.com/teu-username)
+- 📫 How to reach me: brauliodossantos@example.com
+- ⚡ Fun fact: I believe in turning ideas into impact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tools
+HTML | CSS | JavaScript | Angular | Node.js | AdonisJS | Docker | Git | MySQL
+
+## 📊 GitHub Stats
+![Bráulio's GitHub stats](https://github-readme-stats.vercel.app/api?username=teu-username&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teu-username&layout=compact&theme=dark)

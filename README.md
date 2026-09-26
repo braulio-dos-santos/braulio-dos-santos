@@ -7,7 +7,7 @@
 
 ---
 
-🔭 Currently building: [Blog247](https://github.com/braulio-dos-santos/blog247_frontend)  
+🔭 Currently building: [Chrímata](https://github.com/braulio-dos-santos/chr-mata_app)  
 📚 Learning: `Angular`, `AdonisJS`, `Git Workflows`  
 🤝 Open to collaborate with the [Angola Open Source Community](https://github.com/angolaosc)  
 💼 All my projects: [github.com/braulio-dos-santos](https://github.com/braulio-dos-santos)  
